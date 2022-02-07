@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 1",
+      "shortDescription": "Bluey is an Australian animated television series for preschoolers that has aired on ABC Kids ",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/200/300",
+      "title": "Banski 123",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/200/300",
+      "title": "asdasdasd",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/200/300",
+      "title": "Lorem Ipsum",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 5",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 6",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 7,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 7",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 8,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 8",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 9,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 9",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 10,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 10",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 11,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 11",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    },
+    {
+      "id": 12,
+      "image": "https://picsum.photos/200/300",
+      "title": "Random Product 12",
+      "shortDescription": "Lorem ipsum dolor sit amet",
+      "price": 10
+    }
+  ]

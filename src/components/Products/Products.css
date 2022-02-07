@@ -1,0 +1,13 @@
+ul {
+    text-decoration: none;
+    display: flex;
+}
+li {
+    border-style: solid;
+    max-width: 300px;
+    width: 300px;
+}
+.p__shortDescription{
+    border-style: solid;
+    padding-left: 10px;
+}
