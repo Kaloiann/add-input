@@ -27,16 +27,16 @@ const submitHandler = (e) => {
     e.preventDefault()
     const newProduct = {
         id: Math.random(),
-        image,
-        title,
+        image: image,
+        title: title,
         shortDescription: description,
-        price,
+        price: price,
       }
     addProductHandler(newProduct)
-    titleHandler('');
-    descriptionHandler('');
-    imageHandler('');
-    priceHandler('');
+    setTitle('');
+    setDescription('');
+    setImage('');
+    setPrice('');
     }
 
 
